@@ -25,23 +25,16 @@
 - **E-commerce Launch**: Engineered a Formula 1-inspired Shopify site, generating 800% profit margin and $12,000 revenue in first 4 weeks of operation.
 - **ChatGPT Chrome Extensions**: Pin your favorite ChatGPT chats on the side-panel
 
-## 🛠️ **Toolset**
-- **Project Management**: Jira, Confluence, GitHub, MS Projects
-- **Cloud Platforms**: AWS, Azure
-- **Quantum Computing**: Qiskit, Penny Lane
-- **Development**: React.js, Python, Jupyter Notebooks, REST APIs, SQL, NoSQL
-- **Design**: Figma, Adobe Creative Suite, Wireframing and Prototyping
-- **AI & ML**: NLP, Computer Vision, Numpy, Matplot, Pandas, etc
-
-## 🎓 **Certifications & Education**
-- Certified ScrumMaster [(CSM®)](https://bcert.me/sfsuyyyrq)
-- Professional Scrum Product Owner [(PSPO™)](https://www.credly.com/badges/f4ea6a0e-9a12-4b68-b262-45ea07ef7706/public_url).
-- **AWS** Certified Solutions Architect (In Progress)
-- **AWS** Certified [AI Practitioner](https://www.credly.com/badges/80ec03b1-55c1-44fd-9002-e2a6eec75bd9) +[Early Adopter Badge](https://www.credly.com/badges/0ff3f855-7962-4638-880a-ccd0d2e75250)
-- **AWS** Certified [Cloud Practitioner](https://www.credly.com/badges/4500beb6-72e5-46b7-830d-368fa18b850d)
-- **B.S. in Applied Artificial Intelligence**, Miami Dade College (GPA: 4.0, In Progress)
-- **A.S. in Applied Artificial Intelligence**, Miami Dade College (GPA: 4.0)
-- **A.S in Computer Science**, Miami Dade College (GPA 4.0)
+| 🛠️ **Toolset** | 🎓 **Certifications & Education** |
+| --- | --- |
+| **AI & ML**: NLP, Computer Vision, Numpy, Matplotlib, Pandas, etc. | Certified ScrumMaster [(CSM®)](https://bcert.me/sfsuyyyrq) |
+| **Development**: React.js, Python, Jupyter Notebooks, REST APIs, SQL, NoSQL | Professional Scrum Product Owner [(PSPO™)](https://www.credly.com/badges/f4ea6a0e-9a12-4b68-b262-45ea07ef7706/public_url) |
+| **Cloud Platforms**: AWS, Azure | **AWS** Certified Solutions Architect (In Progress) | **AWS** Certified [AI Practitioner](https://www.credly.com/badges/80ec03b1-55c1-44fd-9002-e2a6eec75bd9) + [Early Adopter Badge](https://www.credly.com/badges/0ff3f855-7962-4638-880a-ccd0d2e75250) |
+| **Project Management**: Jira, Confluence, GitHub, MS Projects | **AWS** Certified [Cloud Practitioner](https://www.credly.com/badges/4500beb6-72e5-46b7-830d-368fa18b850d) |
+| **Quantum Computing**: Qiskit, Penny Lane | **Product Design**: Figma, Adobe Creative Suite, Wireframing and Prototyping 
+| **AI & ML**: NLP, Computer Vision, Scikit-Learn, TensorFlow, PyTorch Numpy, Matplotlib, Pandas, etc.| **B.S. in Applied Artificial Intelligence**, Miami Dade College (GPA: 4.0, In Progress) |
+| **DevOps & CI/CD**: GitHub Actions, Jenskins, AWS CodePipeline | **A.S. in Applied Artificial Intelligence**, Miami Dade College (GPA: 4.0) |
+| **Marketing**: Google Anatlytics and Tag Manager, HotJar, HubSpot, Mixpanel, etc | **A.S. in Computer Science**, Miami Dade College (GPA: 4.0) |
 
 
 <!--
