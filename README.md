@@ -25,7 +25,8 @@
 - **E-commerce Launch**: Engineered a Formula 1-inspired Shopify site, generating 800% profit margin and $12,000 revenue in first 4 weeks of operation.
 - **ChatGPT Chrome Extensions**: Pin your favorite ChatGPT chats on the side-panel
 
-| 🛠️ **Toolset** | 🎓 **Certifications & Education** |
+## 🛠️🎓 Tools, Skills, and Education
+| **Toolset** | **Certifications & Education** |
 | --- | --- |
 | **AI & ML**: NLP, Computer Vision, Numpy, Matplotlib, Pandas, etc. | Certified ScrumMaster [(CSM®)](https://bcert.me/sfsuyyyrq) |
 | **Development**: React.js, Python, Jupyter Notebooks, REST APIs, SQL, NoSQL | Professional Scrum Product Owner [(PSPO™)](https://www.credly.com/badges/f4ea6a0e-9a12-4b68-b262-45ea07ef7706/public_url) |
