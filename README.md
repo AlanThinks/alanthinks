@@ -1,42 +1,31 @@
 # 👋 Hi, I'm Alan!
 
-🤖 **AI, ML, and Quantum Computing Product Leader**  
+🤖 **AI, ML, and Quantum Computing Agile Product Leader**  
 ☁️ AWS Certified [AI Practitioner](https://www.credly.com/badges/80ec03b1-55c1-44fd-9002-e2a6eec75bd9) and [Solutions Architect](https://www.credly.com/badges/4500beb6-72e5-46b7-830d-368fa18b850d)<br>
 👷‍♂️ Professional Scrum Product Owner [(PSPO™)](https://www.credly.com/badges/f4ea6a0e-9a12-4b68-b262-45ea07ef7706/public_url) <br>
 🚧 Certified ScrumMaster [(CSM®)](https://bcert.me/sfsuyyyrq) <br>
 💼 [linkedin.com/in/alanlthinks](https://linkedin.com/in/alanthinks) <br>
-📫 [a@alanthinks.com](mailto:a@alanthinks.com)
+📫 [a@alanthinks.com](mailto:a@alanthinks.com) <br>
+⤵️ [Download My Full Resume](http://bit.ly/alan-guevara-product-manager)
 
----
 ## 👨‍💻 **About Me**
-- 🌐 **15 years** in business and technology, specializing in software & hardware product development leadership.
+- 🌐 **15 years** in business and technology, specializing in software & hardware manufacturing product development leadership.
 - 🏆 **6 years** leading software teams as a Technical Product Owner and Product Manager.
 - 📈 Launched **20+ SaaS platforms** in diverse industries like healthcare, education, and logistics.
 - 📈 Drove startup growth from initial clients to over $1M annual revenue within 2.5 years achieving over 10x growth.
 - 🛠️ Expert in aligning **customer experience with market insights** and driving strategic roadmaps.
-- 🎓 RBack in school pursuing a **B.S. in Applied Artificial Intelligence**, from Miami Dade College (GPA: 4.0, In Progress)
+- 🌍 Managed **international teams** across 3 continents, ensuring agile delivery and efficiency.
+- 🎓 Back in school pursuing a **B.S. in Applied Artificial Intelligence**, from Miami Dade College (GPA: 4.0, In Progress)
 - ⚛️ Training heavily in **Quantum Computing** primarily using IBM's [@Qiskit](https://github.com/qiskit), always looking for new projects to collaborate on 💡
+- ⚙️ Former Chief of Product Management at [@CobuildLab](https://github.com/cobuildlab)  
 
 ## 🔍 **Current Projects**
 - **LLM RAG Faculty Agent**: @mdc-ai-projects AI chatbot assisting faculty populate their Canvas LMS using RAG, including syllabus generation, quiz generation, and more.
 - **Interport Pricing Agent**: Developing an AI-powered quoting system for a logistics and shipping company in Miami using vector databases.
 - **E-commerce Launch**: Engineered a Formula 1-inspired Shopify site, generating 800% profit margin and $12,000 revenue in first 4 weeks of operation.
 - **ChatGPT Chrome Extensions**: Pin your favorite ChatGPT chats on the side-panel
-- ⤵️ [Download My Full Resume](http://bit.ly/alan-guevara-product-manager)
 
-## 📊 **Career Highlights**
-- 🚀 Led **20+ digital product launches** across healthcare, education, and SaaS.
-- 🌍 Managed **international teams** across 3 continents, ensuring agile delivery and efficiency.
-- 📈 Drove startup growth from initial clients to over $1M annual revenue within 2.5 years.
-- ⚙️ Former Chief of Product Management at [@CobuildLab](https://github.com/cobuildlab)  
-- 🎓 Founded **Cobuild UX Lab**, empowering students with UX/UI skills in Latin America.
-
-## 💡 **Skills and Tools**
-- **Agile Product Management**: Skilled in roadmap development, backlog management, and cross-functional collaboration.
-- **AI, ML, and Quantum** Certified
-- **Great Communicator** and team player
-
-<br>🛠️ **Toolset**:
+## 🛠️ **Toolset**
 - **Project Management**: Jira, Confluence, GitHub, MS Projects
 - **Cloud Platforms**: AWS, Azure
 - **Quantum Computing**: Qiskit, Penny Lane
@@ -53,16 +42,6 @@
 - **B.S. in Applied Artificial Intelligence**, Miami Dade College (GPA: 4.0, In Progress)
 - **A.S. in Applied Artificial Intelligence**, Miami Dade College (GPA: 4.0)
 - **A.S in Computer Science**, Miami Dade College (GPA 4.0)
-
-## 🤝 **Let's Connect!**
-- 💼 [LinkedIn](https://linkedin.com/in/alanthinks)
-- 📫 **Email**: a@alanthinks.com
-- 🌐 **Website**: [alanthinks.com](https://alanthinks.com)
-
----
-
-### 🌟 **"Innovation at the intersection of AI, design, and agile thinking!"**
-
 
 
 <!--
