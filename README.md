@@ -34,8 +34,8 @@
 - **AI & ML**: NLP, Computer Vision, Numpy, Matplot, Pandas, etc
 
 ## 🎓 **Certifications & Education**
-- Certified ScrumMaster [**(CSM®)**](https://bcert.me/sfsuyyyrq)
-- Professional Scrum Product Owner [**(PSPO™)**](https://www.credly.com/badges/f4ea6a0e-9a12-4b68-b262-45ea07ef7706/public_url).
+- Certified ScrumMaster [(CSM®)](https://bcert.me/sfsuyyyrq)
+- Professional Scrum Product Owner [(PSPO™)](https://www.credly.com/badges/f4ea6a0e-9a12-4b68-b262-45ea07ef7706/public_url).
 - **AWS** Certified Solutions Architect (In Progress)
 - **AWS** Certified [AI Practitioner](https://www.credly.com/badges/80ec03b1-55c1-44fd-9002-e2a6eec75bd9) +[Early Adopter Badge](https://www.credly.com/badges/0ff3f855-7962-4638-880a-ccd0d2e75250)
 - **AWS** Certified [Cloud Practitioner](https://www.credly.com/badges/4500beb6-72e5-46b7-830d-368fa18b850d)
