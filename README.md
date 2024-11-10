@@ -20,7 +20,7 @@
 - ⚙️ Former Chief of Product Management at [@CobuildLab](https://github.com/cobuildlab)  
 
 ## 🔍 **Current Projects**
-- **LLM RAG Faculty Agent**: @mdc-ai-projects AI chatbot assisting faculty populate their Canvas LMS using RAG, including syllabus generation, quiz generation, and more.
+- **LLM RAG Faculty Agent**: [@MDC-AI-projects](https://github.com/MDC-Ai-Projects) AI chatbot assisting faculty populate their Canvas LMS using RAG, including syllabus generation, quiz generation, and more.
 - **Interport Pricing Agent**: Developing an AI-powered quoting system for a logistics and shipping company in Miami using vector databases.
 - **E-commerce Launch**: Engineered a Formula 1-inspired Shopify site, generating 800% profit margin and $12,000 revenue in first 4 weeks of operation.
 - **ChatGPT Chrome Extensions**: Pin your favorite ChatGPT chats on the side-panel
