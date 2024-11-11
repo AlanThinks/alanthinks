@@ -25,6 +25,16 @@
 - **E-commerce Launch**: Engineered a Formula 1-inspired Shopify site, generating 800% profit margin and $12,000 revenue in first 4 weeks of operation.
 - **ChatGPT Chrome Extensions**: Pin your favorite ChatGPT chats on the side-panel
 
+## Github Stats
+<a href="https://github.com/alanthinks">
+  <img height=200 align="center" src="https://github-readme-stats-six-mu-45.vercel.app/api?username=alanthinks&hide_rank=true&rank_icon=github&hide=stars,contribs&show=prs_merged&hide_title=true&include_all_commits=true&layout=compact&card_width=300&theme=transparent"/>
+</a>
+<a href="https://github.com/alanthinks/">
+  <img height=200 align="center" src="https://github-readme-stats-six-mu-45.vercel.app/api/top-langs/?username=alanthinks&include_all_commits&theme=transparent&layout=compact&hide_title=true&card_width=300""/>
+</a><br>
+
+*Thank you [@anuraghazra](https://github.com/anuraghazra) for the cards!*
+
 ## 🛠️🎓 Tools, Skills, and Education
 | **Toolset** | **Certifications & Education** |
 | --- | --- |
@@ -35,17 +45,10 @@
 | **`Quantum Computing`**: Qiskit, Penny Lane | **Product Design**: Figma, Adobe Creative Suite, Wireframing and Prototyping 
 | **`DevOps & CI/CD`**: GitHub Actions, Jenskins, AWS CodePipeline | **B.S. in Applied Artificial Intelligence**, Miami Dade College (GPA: 4.0, In Progress) |
 | **`Marketing`**: Google Anatlytics and Tag Manager, HotJar, HubSpot, Mixpanel, etc | **A.S. in Applied Artificial Intelligence**, Miami Dade College (GPA: 4.0) |
-| **`Product Design`**: Figma, Adobe Creative Suite, Wireframing and Prototyping | **A.S. in Computer Science**, Miami Dade College (GPA: 4.0) |
+| **`Business Analytics`**: Tableau, Power BI | **A.S. in Computer Science**, Miami Dade College (GPA: 4.0) |
+| **`Product Design`**: Figma, Adobe Creative Suite, Wireframing and Prototyping | **Full Stack Development Bootcamp Certificate**, [@4GeeksAcademy](https://github.com/4geeksacademy/)
 
-## Stats
-<a href="https://github.com/alanthinks">
-  <img height=200 align="center" src="https://github-readme-stats-six-mu-45.vercel.app/api?username=alanthinks&rank_icon=github&hide=stars,contribs&show=prs_merged&hide_title=true&include_all_commits=true&layout=compact&theme=transparent"/>
-</a>
-<a href="https://github.com/alanthinks/">
-  <img height=200 align="center" src="https://github-readme-stats-six-mu-45.vercel.app/api/top-langs/?username=alanthinks&include_all_commits&theme=transparent&layout=compact&card_width=320""/>
-</a>
-<br>
-*Thank you [@anuraghazra](https://github.com/anuraghazra) for the cards!*
+
 <!--
 **AlanThinks/alanthinks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
