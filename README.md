@@ -37,15 +37,16 @@
 | **`Marketing`**: Google Anatlytics and Tag Manager, HotJar, HubSpot, Mixpanel, etc | **A.S. in Applied Artificial Intelligence**, Miami Dade College (GPA: 4.0) |
 | **`Product Design`**: Figma, Adobe Creative Suite, Wireframing and Prototyping | **A.S. in Computer Science**, Miami Dade College (GPA: 4.0) |
 
-## My Github Stats
-
-<a href="https://github.com/alanthinks/">
-  <img height=200 align="center" src="https://github-readme-stats-six-mu-45.vercel.app/api?username=alanthinks" />
-</a>
+## Stats
 <a href="https://github.com/alanthinks">
-  <img height=200 align="center" src="https://github-readme-stats-six-mu-45.vercel.app/api?username=alanthinks"&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats-six-mu-45.vercel.app/api?username=alanthinks&rank_icon=github&hide=stars&show=prs_merged&hide_title&include_all_commits&layout=compact&theme=transparent"/>
+</a><br>
+<a href="https://github.com/alanthinks/">
+  <img height=200 align="center" src="https://github-readme-stats-six-mu-45.vercel.app/api/top-langs/?username=alanthinks&include_all_commits&theme=transparent&card_width=320""/>
 </a>
 
+
+*Thank you [@anuraghazra](https://github.com/anuraghazra) for the cards!*
 <!--
 **AlanThinks/alanthinks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
