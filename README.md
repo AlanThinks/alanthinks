@@ -27,10 +27,10 @@
 
 ## Github Stats
 <a href="https://github.com/alanthinks">
-  <img height=200 align="center" src="https://github-readme-stats-six-mu-45.vercel.app/api?username=alanthinks&hide_rank=true&rank_icon=github&hide=stars,contribs&show=prs_merged&hide_title=true&include_all_commits=true&layout=compact&card_width=300&theme=transparent"/>
+  <img height=200 align="center" src="https://github-readme-stats-six-mu-45.vercel.app/api?username=alanthinks&hide_rank=true&rank_icon=github&hide=stars,contribs&show=prs_merged&hide_title=true&include_all_commits=true&layout=compact&card_width=200&theme=transparent"/>
 </a>
 <a href="https://github.com/alanthinks/">
-  <img height=200 align="center" src="https://github-readme-stats-six-mu-45.vercel.app/api/top-langs/?username=alanthinks&include_all_commits&theme=transparent&layout=compact&hide_title=true&card_width=300""/>
+  <img height=200 align="center" src="https://github-readme-stats-six-mu-45.vercel.app/api/top-langs/?username=alanthinks&include_all_commits&theme=transparent&layout=compact&hide_title=true&card_width=200""/>
 </a><br>
 
 *Thank you [@anuraghazra](https://github.com/anuraghazra) for the cards!*
