@@ -39,13 +39,12 @@
 
 ## Stats
 <a href="https://github.com/alanthinks">
-  <img height=200 align="center" src="https://github-readme-stats-six-mu-45.vercel.app/api?username=alanthinks&rank_icon=github&hide=stars&show=prs_merged&hide_title&include_all_commits&layout=compact&theme=transparent"/>
-</a><br>
-<a href="https://github.com/alanthinks/">
-  <img height=200 align="center" src="https://github-readme-stats-six-mu-45.vercel.app/api/top-langs/?username=alanthinks&include_all_commits&theme=transparent&card_width=320""/>
+  <img height=200 align="center" src="https://github-readme-stats-six-mu-45.vercel.app/api?username=alanthinks&rank_icon=github&hide=stars,contribs&show=prs_merged&hide_title=true&include_all_commits=true&layout=compact&theme=transparent"/>
 </a>
-
-
+<a href="https://github.com/alanthinks/">
+  <img height=200 align="center" src="https://github-readme-stats-six-mu-45.vercel.app/api/top-langs/?username=alanthinks&include_all_commits&theme=transparent&layout=compact&card_width=320""/>
+</a>
+<br>
 *Thank you [@anuraghazra](https://github.com/anuraghazra) for the cards!*
 <!--
 **AlanThinks/alanthinks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
