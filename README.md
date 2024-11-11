@@ -5,6 +5,7 @@
 👷‍♂️ Professional Scrum Product Owner [(PSPO™)](https://www.credly.com/badges/f4ea6a0e-9a12-4b68-b262-45ea07ef7706/public_url) <br>
 🚧 Certified ScrumMaster [(CSM®)](https://bcert.me/sfsuyyyrq) <br>
 💼 [linkedin.com/in/alanlthinks](https://linkedin.com/in/alanthinks) <br>
+🎓 Back in school pursuing a **B.S. in Applied Artificial Intelligence**, from Miami Dade College <br>
 📫 [a@alanthinks.com](mailto:a@alanthinks.com) <br>
 ⤵️ [Download My Full Resume](http://bit.ly/alan-guevara-product-manager)
 
@@ -15,7 +16,6 @@
 - 📈 Drove startup growth from initial clients to over $1M annual revenue within 2.5 years achieving over 10x growth.
 - 🛠️ Expert in aligning **customer experience with market insights** and driving strategic roadmaps.
 - 🌍 Managed **international teams** across 3 continents, ensuring agile delivery and efficiency.
-- 🎓 Back in school pursuing a **B.S. in Applied Artificial Intelligence**, from Miami Dade College (GPA: 4.0, In Progress)
 - ⚛️ Training heavily in **Quantum Computing** primarily using IBM's [@Qiskit](https://github.com/qiskit), always looking for new projects to collaborate on 💡
 - ⚙️ Former Chief of Product Management at [@CobuildLab](https://github.com/cobuildlab)  
 
