@@ -37,6 +37,15 @@
 | **`Marketing`**: Google Anatlytics and Tag Manager, HotJar, HubSpot, Mixpanel, etc | **A.S. in Applied Artificial Intelligence**, Miami Dade College (GPA: 4.0) |
 | **`Product Design`**: Figma, Adobe Creative Suite, Wireframing and Prototyping | **A.S. in Computer Science**, Miami Dade College (GPA: 4.0) |
 
+## My Github Stats
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats-six-mu-45.vercel.app/
+/api?username=alanthinks" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats-six-mu-45.vercel.app/api?username=alanthinks"&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 <!--
 **AlanThinks/alanthinks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
