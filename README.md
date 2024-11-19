@@ -4,7 +4,7 @@
 ☁️ AWS Certified [AI Practitioner](https://www.credly.com/badges/80ec03b1-55c1-44fd-9002-e2a6eec75bd9) and [Solutions Architect](https://www.credly.com/badges/4500beb6-72e5-46b7-830d-368fa18b850d)<br>
 👷‍♂️ Professional Scrum Product Owner [(PSPO™)](https://www.credly.com/badges/f4ea6a0e-9a12-4b68-b262-45ea07ef7706/public_url) <br>
 🚧 Certified ScrumMaster [(CSM®)](https://bcert.me/sfsuyyyrq) <br>
-💼 [linkedin.com/in/alanlthinks](https://linkedin.com/in/alanthinks) <br>
+💼 [linkedin.com/in/alanthinks](https://linkedin.com/in/alanthinks) <br>
 🎓 Back in school pursuing a **B.S. in Applied Artificial Intelligence**, from Miami Dade College <br>
 📫 [a@alanthinks.com](mailto:a@alanthinks.com) <br>
 ⤵️ [Download My Full Resume](http://bit.ly/alan-guevara-product-manager)
