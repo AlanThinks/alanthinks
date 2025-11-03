@@ -6,8 +6,7 @@
 🚧 Certified ScrumMaster [(CSM®)](https://bcert.me/sfsuyyyrq) <br>
 💼 [linkedin.com/in/alanthinks](https://linkedin.com/in/alanthinks) <br>
 🎓 Back in school pursuing a **B.S. in Applied Artificial Intelligence**, from Miami Dade College <br>
-📫 [a@alanthinks.com](mailto:a@alanthinks.com) <br>
-⤵️ [Download My Full Resume](http://bit.ly/alan-guevara-product-manager)
+↗️ Telegram: [@alanthinks](https://telegram.me/alanthinks) <br>
 
 ## 👨‍💻 **About Me**
 - 🌐 **15 years** in business and technology, specializing in software & hardware manufacturing product development leadership.
