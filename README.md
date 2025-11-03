@@ -39,9 +39,9 @@
 | --- | --- |
 | **`AI & ML`**: NLP, Computer Vision, Scikit-Learn, TensorFlow, PyTorch, Numpy, Matplotlib, Pandas, etc. | Certified ScrumMaster [(CSM®)](https://bcert.me/sfsuyyyrq) |
 | **`Development`**: React.js, Python, Jupyter Notebooks, HTML/CSS, REST APIs, SQL,NoSQL | Professional Scrum Product Owner [(PSPO™)](https://www.credly.com/badges/f4ea6a0e-9a12-4b68-b262-45ea07ef7706/public_url) |
-| **`Cloud Platforms`**: AWS, Azure | **AWS** Certified Solutions Architect (In Progress) | **AWS** Certified [AI Practitioner](https://www.credly.com/badges/80ec03b1-55c1-44fd-9002-e2a6eec75bd9) + [Early Adopter Badge](https://www.credly.com/badges/0ff3f855-7962-4638-880a-ccd0d2e75250) |
-| **`Project Management`**: Jira, Confluence, GitHub, MS Projects | **AWS** Certified [Cloud Practitioner](https://www.credly.com/badges/4500beb6-72e5-46b7-830d-368fa18b850d) |
-| **`Quantum Computing`**: Qiskit, Penny Lane | **Product Design**: Figma, Adobe Creative Suite, Wireframing and Prototyping 
+| **`Cloud Platforms`**: AWS, Azure | **AWS** Certified [Solutions Architect](https://www.credly.com/badges/e415f66b-ff57-4a64-9d7e-838a02e6dc5e) |
+| **`Project Management`**: Jira, Confluence, GitHub, MS Projects | **AWS** Certified [AI Practitioner](https://www.credly.com/badges/80ec03b1-55c1-44fd-9002-e2a6eec75bd9) + [Early Adopter Badge](https://www.credly.com/badges/0ff3f855-7962-4638-880a-ccd0d2e75250) <br>**AWS** Certified [Cloud Practitioner](https://www.credly.com/badges/4500beb6-72e5-46b7-830d-368fa18b850d)|
+| **`Quantum Computing`**: Qiskit, Penny Lane | [MDC Enterprise Cloud Computing CCC](https://www.mdc.edu/cloudcomputingcertificate/) <br>[MDC Artificial Intelligence Practitioner CCC](https://www.mdc.edu/aipractitioner/)
 | **`DevOps & CI/CD`**: GitHub Actions, Jenskins, AWS CodePipeline | **B.S. in Applied Artificial Intelligence**, Miami Dade College (GPA: 4.0, In Progress) |
 | **`Marketing`**: Google Anatlytics and Tag Manager, HotJar, HubSpot, Mixpanel, etc | **A.S. in Applied Artificial Intelligence**, Miami Dade College (GPA: 4.0) |
 | **`Business Analytics`**: Tableau, Power BI | **A.S. in Computer Science**, Miami Dade College (GPA: 4.0) |
