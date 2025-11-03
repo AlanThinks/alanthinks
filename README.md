@@ -11,7 +11,7 @@
 ## 👨‍💻 **About Me**
 - 🌐 **15 years** in business and technology, specializing in software & hardware manufacturing product development leadership.
 - 🏆 **6 years** leading software teams as a Technical Product Owner and Product Manager.
-- 📈 Launched **20+ SaaS platforms** in diverse industries like healthcare, education, and logistics.
+- 📈 Launched **35+ SaaS platforms** in diverse industries like healthcare, education, and logistics.
 - 📈 Drove startup growth from initial clients to over $1M annual revenue within 2.5 years achieving over 10x growth.
 - 🛠️ Expert in aligning **customer experience with market insights** and driving strategic roadmaps.
 - 🌍 Managed **international teams** across 3 continents, ensuring agile delivery and efficiency.
